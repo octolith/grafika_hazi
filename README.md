@@ -8,8 +8,8 @@ BME-VIK 2017 őszi féléves Számítógépes grafika tárgy házi feladatainak 
 * A [VIK wikin található leírás szerint](https://vik.wiki/Számítógépes_grafika:_OpenGL_%2B_GLUT_%2B_fejlesztőkörnyezetek#Visual_Studio_2015) a solutionhöz hozzá kell adni a NupenGL.Core csomagot, hogy működjön.
 
 ## TODO
-* háttér (négyzet) textúrája a gauss görbületnek megfelelő legyen
-* a háromszögre nincs szükség
+* ~~háttér (négyzet) textúrája a gauss görbületnek megfelelő legyen~~
+* ~~a háromszögre nincs szükség~~
 * a linestrip textúrája sárga
 * TÓRUSZ és koordináták összehangolása
 * sok OpenGL black magic
