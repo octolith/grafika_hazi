@@ -10,7 +10,8 @@ BME-VIK 2017 őszi féléves Számítógépes grafika tárgy házi feladatainak 
 ## TODO
 * ~~háttér (négyzet) textúrája a gauss görbületnek megfelelő legyen~~
 * ~~a háromszögre nincs szükség~~
-* a linestrip textúrája sárga
+* ~~a linestrip textúrája sárga~~
+* felesleges kód és kommentek eltávolítása
 * TÓRUSZ és koordináták összehangolása
 * sok OpenGL black magic
 * vért izzadás
