@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "grafika_elso_hazi", "grafik
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "teszt", "teszt\teszt.vcxproj", "{AEF2B036-C561-48E6-BF52-F95678DED878}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "grafika_masodik_hazi", "grafika_masodik_hazi\grafika_masodik_hazi.vcxproj", "{0EE248EB-EEBA-4F0C-9469-280D34ED99B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{AEF2B036-C561-48E6-BF52-F95678DED878}.Release|x64.Build.0 = Release|x64
 		{AEF2B036-C561-48E6-BF52-F95678DED878}.Release|x86.ActiveCfg = Release|Win32
 		{AEF2B036-C561-48E6-BF52-F95678DED878}.Release|x86.Build.0 = Release|Win32
+		{0EE248EB-EEBA-4F0C-9469-280D34ED99B2}.Debug|x64.ActiveCfg = Debug|x64
+		{0EE248EB-EEBA-4F0C-9469-280D34ED99B2}.Debug|x64.Build.0 = Debug|x64
+		{0EE248EB-EEBA-4F0C-9469-280D34ED99B2}.Debug|x86.ActiveCfg = Debug|Win32
+		{0EE248EB-EEBA-4F0C-9469-280D34ED99B2}.Debug|x86.Build.0 = Debug|Win32
+		{0EE248EB-EEBA-4F0C-9469-280D34ED99B2}.Release|x64.ActiveCfg = Release|x64
+		{0EE248EB-EEBA-4F0C-9469-280D34ED99B2}.Release|x64.Build.0 = Release|x64
+		{0EE248EB-EEBA-4F0C-9469-280D34ED99B2}.Release|x86.ActiveCfg = Release|Win32
+		{0EE248EB-EEBA-4F0C-9469-280D34ED99B2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
