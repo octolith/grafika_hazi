@@ -8,10 +8,7 @@ BME-VIK 2017 őszi féléves Számítógépes grafika tárgy házi feladatainak 
 * A [VIK wikin található leírás szerint](https://vik.wiki/Számítógépes_grafika:_OpenGL_%2B_GLUT_%2B_fejlesztőkörnyezetek#Visual_Studio_2015) a solutionhöz hozzá kell adni a NupenGL.Core csomagot, hogy működjön.
 
 ## TODO
-* ~~háttér (négyzet) textúrája a gauss görbületnek megfelelő legyen~~
-* ~~a háromszögre nincs szükség~~
-* ~~a linestrip textúrája sárga~~
-* görbék megfelelő kiszámolása
-* ~~görbe ábrázolása LineStripekkel~~
-* háromszög szögeinek kiszámolása
-* felesleges kód és kommentek eltávolítása
+### Második házi
+* At this point struct Ray is missing
+* Fresnel equation needs to be done properly
+* Material class needs to be implemented as a superclass of SmoothMaterial and RoughMaterial
