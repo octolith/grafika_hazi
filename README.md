@@ -7,8 +7,17 @@ BME-VIK 2017 őszi féléves Számítógépes grafika tárgy házi feladatainak 
 * Kizárólag Windows dependenciákat tartalmaz, minden más include ki lett belőle szedve, hogy ne mutassa úgy a Visual Studio, mintha hiba lenne a kódban.
 * A [VIK wikin található leírás szerint](https://vik.wiki/Számítógépes_grafika:_OpenGL_%2B_GLUT_%2B_fejlesztőkörnyezetek#Visual_Studio_2015) a solutionhöz hozzá kell adni a NupenGL.Core csomagot, hogy működjön.
 
+## Első házi
+* 2 pontot ért
+* gányolás
+* egymás után több háromszöget is ki tud rajzolni
+
 ## TODO
 ### Második házi
-* At this point struct Ray is missing
-* Fresnel equation needs to be done properly
-* Material class needs to be implemented as a superclass of SmoothMaterial and RoughMaterial
+* szar az egész
+* egyáltalán nem fordul még
+* egyelőre a tesszellált tórusz kirajzolásán dolgozom
+* az összes sugaras függvényt fixálni kell
+
+### Harmadik házi
+* remélem a másodikra kapok egy pontot és még csak gondolnom sem kell erre
